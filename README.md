@@ -7,5 +7,7 @@
 
 [ ] precision, recall, f-scores
 
+[ ] demo prediction
+
 
 [ ] begin image detection models
